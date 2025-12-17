@@ -8,8 +8,8 @@ import numpy as np
 # ==========================
 # Segment 2: Load Model & Scaler
 # ==========================
-model = joblib.load("group7_model.joblib")
-scaler = joblib.load("group7_scaler.joblib")
+model = joblib.load("25RP19755_model.joblib")
+scaler = joblib.load("25RP19755_scaler.joblib")
 
 # ==========================
 # Segment 3: App Title
